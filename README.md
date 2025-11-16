@@ -75,5 +75,12 @@ Key obsevations:
 - Tree-based models were effective for capturing nonlinear relationships
 - Bagging calssifier has the best performance among all of the tested decision tree based models
 
+| Model    | Accuracy |
+| -------- | ------- |
+| Decision Tree Classifier  |  0.7229  |
+| Bagging Classifier | 0.7655  |
+| Random Forest Classifier    | 0.7258  |
+
+
 Full results are available in the notebook
 
